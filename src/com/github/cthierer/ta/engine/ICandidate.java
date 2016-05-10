@@ -1,4 +1,4 @@
-package com.github.cthierer.ta.assister;
+package com.github.cthierer.ta.engine;
 
 /**
  * Defines a prediction candidate.
